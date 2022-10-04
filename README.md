@@ -59,7 +59,7 @@ BERT shows the best results for the emotion criticism with the precision score o
 !# [Built a client facing API using steamlit:]
 
 
-![](/images/matrix_results.png)
+![](/images/aap%20prediction.png)
 
 
 ![](/images/app%20graph.png)
