@@ -53,7 +53,7 @@ As far as the accuracy of the model is concerned BERT better than the LSTM model
 
 
 
-![](/images/accuary%20reult.png)
+![](/images/1_Il7Cwu_ttN-bx1hYQ7BrSg.png)
 
 # Classification Report
 
