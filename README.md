@@ -5,7 +5,7 @@
 * The dataset used is a Twitter dataset that was downloaded from various sources. The tweets include the user’s name, the text tweet and emoticons. Emoji’s are not included in the tweet. The dataset has 113300 tweets containing three columns. The first column contains the Tweet comments, the second contains the sentiment score and the third column contains the actual tweet. The emotion score takes 10 values. A score of 0:Anger,1:Criticism, 2:Fear, 3:Hate, 4:Joy, 5:Love, 6:Offensive, 7:Optimism, 8:Sadness, 9:Surprise, I gave emotions. 
 * Built a client facing API using steamlit
 
-![](/images/positions_by_state.png)
+![](/images/1_7kxtIjXsYeFHy4GcglUo-w.png)
 
 
 # [Approach & Methodology/Techniques:]
